@@ -151,8 +151,7 @@ If you need support or have questions about deployment:
 
 ---
 
-### **📜 License**
-This project is licensed under the **MIT License** – feel free to modify and distribute.
+
 
 ---
 
