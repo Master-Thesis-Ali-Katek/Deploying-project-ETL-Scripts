@@ -1,0 +1,16 @@
+000
+"Info1 (Mat.Dat.)";"Ecktermin 🔑:W06 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W07 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W08 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W09 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W10 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W11 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W12 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W13 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W14 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W15 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W16 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W17 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W18 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W19 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W20 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W21 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W22 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W23 2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:W24 2025,Rest-Belastung Gesamt Personal";"Rest-Belastung Gesamt Personal";"Disponent";"Materialnummer 🔑";"Auftragsnummer 🔑";"Offene Menge";"Arbeitsplatznummer";"Werk 🔑 | Info1 (Mat.Dat.) | Arbeitsplatznummer | Materialnummer 🔑 | Ecktermin 🔑"
+- "";000;146;548;734;886;834;914;752;982;961;765;818;588;985;759;1033;658;1134;716;14220:44;"";"177";"899";1.260.854;"";"0100"
+   + "";000;000;000;000;000;005;000;000;000;000;000;000;000;025;000;000;000;016;000;46:30;"DH1";"1";"4";186;"MON69";"0100 | "
+   + "ABUS";000;000;009;023;000;000;003;000;041;071;000;030;008;000;000;013;000;000;000;201:52;"DH1";"9";"15";25.325;"";"0100 | ABUS"
+   + "BSH";000;000;039;052;056;048;056;037;053;026;025;047;026;048;039;057;031;049;036;734:56;"";"34";"301";298.492;"";"0100 | BSH"
+   + "DataModul";000;108;180;174;156;236;209;160;134;201;228;185;216;226;201;343;153;455;236;3808:53;"CB1";"19";"70";394.996;"";"0100 | DataModul"
+   + "Ericsson";000;000;003;000;000;000;000;001;000;002;000;000;000;000;000;000;000;000;000;07:48;"CB1";"8";"11";363;"";"0100 | Ericsson"
+   + "Joyson";000;000;027;010;030;030;015;025;015;015;015;030;010;015;015;021;018;015;015;330:00;"CB1";"2";"23";54.723;"";"0100 | Joyson"
+   + "PARITEC";000;000;020;016;023;025;060;059;066;046;000;039;026;046;000;015;038;088;000;574:11;"AG1";"6";"18";39.394;"";"0100 | PARITEC"
+   + "Silver Atena";000;000;000;000;000;048;044;008;054;025;000;000;000;000;000;000;000;026;026;232:53;"CB1";"10";"15";12.044;"";"0100 | Silver Atena"
+   + "TTTech";000;000;025;036;053;057;075;110;124;046;101;090;062;108;101;083;052;030;033;1196:58;"DS1";"28";"86";45.376;"";"0100 | TTTech"
+   + "Telic";000;030;100;126;168;054;100;067;091;141;074;095;042;140;109;125;057;112;115;1754:12;"DH1";"9";"111";179.619;"";"0100 | Telic"
+   + "Tremec";000;005;100;206;259;325;305;264;355;309;250;257;182;302;261;288;230;308;238;4451:24;"DS1";"12";"161";193.899;"";"0100 | Tremec"
+   + "Vector";000;000;041;087;136;002;043;016;044;075;070;041;011;072;030;084;075;030;014;881:07;"DH1";"39";"84";16.437;"";"0100 | Vector"
+

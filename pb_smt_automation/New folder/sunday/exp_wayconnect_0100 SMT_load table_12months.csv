@@ -1,0 +1,9 @@
+000
+"Art";"Art";"Arbeitsplatznummer 🔑";"Netto-Kap. Ressource [%]";"Anzahl Ressourcen";"Ressourcen-Manager";"Ap. Bezeichnung";"Belastungsart 🔑";"Kapazitätsgrenzen überschritten";"Feld 🔑";"Durchschnitt";"Feb 2025,...";"Mrz 2025,...";"Apr 2025,...";"Mai 2025,...";"Jun 2025,...";"Jul 2025,...";"Aug 2025,...";"Sep 2025,...";"Okt 2025,...";"Nov 2025,...";"Dez 2025,...";"Jan 2026,...";"Feb 2026,..."
+- "SMT";"SMT";"";;;"";"";"Maschine";  ;"";41;"";"";"";"";"";"";"";"";"";"";"";"";""
+   "Blstg.(%)";"SMT";"SMT0";83,4;0,0;"AG1";"SMT-all-0100";"Maschine";N;"Blstg.(%)";34;"51";"41";"40";"39";"41";"33";"34";"32";"30";"29";"34";"23";"14"
+   "Blstg.(%)";"SMT";"SMT4";80,5;1,0;"CB1";"SMT-Linie-4 W2EGW";"Maschine";N;"Blstg.(%)";53;"66";"65";"82";"74";"76";"65";"52";"60";"41";"31";"44";"20";"14"
+   "Blstg.(%)";"SMT";"SMT6";84,4;1,0;"AG1";"SMT-Linie-6 W2EGW";"Maschine";J;"Blstg.(%)";94;"95";"103";"99";"100";"107";"78";"95";"82";"89";"107";"121";"95";"55"
+   "Blstg.(%)";"SMT";"SMT7";81,5;1,0;"AG1";"SMT-Linie-7 W2EGW";"Maschine";N;"Blstg.(%)";13;"79";"12";"12";"11";"10";"12";"7";"9";"9";"2";"0";"0";"0"
+   "Blstg.(%)";"SMT";"SMT9";87,9;1,0;"DS1";"SMT-Linie-9 W2EGW";"Maschine";N;"Blstg.(%)";9;"32";"11";"5";"11";"13";"9";"16";"8";"8";"2";"5";"0";"0"
+

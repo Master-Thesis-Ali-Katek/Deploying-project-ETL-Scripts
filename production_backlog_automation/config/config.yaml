@@ -1,0 +1,26 @@
+paths:
+  input_csv: "/main/exp_waycon_0100_PB_execution not according plan last week.csv"
+  output_excel: "/main/new data/output4(perfect).xlsx"
+  weekly_output: "/main/new data/weekly_data1(perfect).xlsx"
+
+
+columns:
+  drop_columns: 
+    - "Werk  | Disponent | PB | Info1 (Mat.Dat.) | Auftragsnummer"
+    - "Vorgangsbezeichnung"
+    - "Filterbedingung"
+    - "Gesamtbelastung Maschine"
+    - "Arbeitsfolge Nr."
+    - "Art"
+    - "Gesamtbelastung Personal"
+  extra_columns:
+    - "PRIO"
+    - "Kommentar durch Produktion"
+    - "Abarbei-tungs-Status"
+    - "Notizen wahrend dem Ruckstandsmeeting"
+
+logging:
+  log_file: "logs/project_log.log"
+
+execution:
+  use_rounded_timestamp: true  # ✅ Use rounded timestamp format

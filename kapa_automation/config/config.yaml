@@ -1,0 +1,8 @@
+data_extraction:
+  input_file_path: "/main/Berechnungsbasis_Kapa.xlsx"
+  sheet_name: "Data basis"
+
+combined_total_production_hours:
+  monthly: "/processed_outputs/combined_monthly_production_hours.xlsx"
+  weekly: "/processed_outputs/combined_weekly_production_hours.xlsx"
+  output_directory: "/main/master_files"

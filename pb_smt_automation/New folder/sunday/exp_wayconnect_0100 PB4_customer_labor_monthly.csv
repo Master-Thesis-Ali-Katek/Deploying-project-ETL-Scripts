@@ -1,0 +1,16 @@
+000
+"Info1 (Mat.Dat.)";"Ecktermin 🔑:02.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:03.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:04.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:05.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:06.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:07.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:08.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:09.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:10.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:11.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:12.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:01.2026,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:02.2026,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:03.2026,Rest-Belastung Gesamt Personal";"Rest-Belastung Gesamt Personal";"Disponent";"Materialnummer 🔑";"Auftragsnummer 🔑";"Offene Menge";"Arbeitsplatznummer";"Werk 🔑 | Info1 (Mat.Dat.) | Arbeitsplatznummer | Materialnummer 🔑 | Ecktermin 🔑"
+- "";1406;3651;3867;3438;3564;3861;3608;3324;3237;1998;1346;1046;660;352;35365:16;"";"207";"1958";3.451.603;"";"0100"
+   + "";000;005;000;025;033;000;000;000;000;000;000;000;000;000;63:00;"DH1";"1";"5";252;"MON69";"0100 | "
+   + "ABUS";033;003;151;013;000;126;059;054;168;068;069;086;020;000;855:56;"DH1";"14";"61";103.931;"";"0100 | ABUS"
+   + "BSH";092;211;167;176;214;139;161;148;186;103;115;099;111;048;1976:02;"";"48";"765";885.246;"";"0100 | BSH"
+   + "DataModul";463;821;906;924;1248;1044;913;754;865;246;225;255;000;000;8671:27;"CB1";"19";"126";888.991;"";"0100 | DataModul"
+   + "Ericsson";003;001;002;000;000;000;000;000;000;000;000;000;000;000;07:48;"CB1";"8";"11";363;"";"0100 | Ericsson"
+   + "Joyson";037;102;087;071;108;174;190;211;159;181;315;180;180;085;2086:56;"CB1";"2";"54";350.121;"";"0100 | Joyson"
+   + "PARITEC";036;186;162;100;088;000;227;108;000;000;108;201;141;008;1370:30;"AG1";"6";"36";96.248;"";"0100 | PARITEC"
+   + "Silver Atena";000;117;063;000;181;162;156;069;255;043;105;057;000;076;1290:03;"CB1";"18";"72";99.514;"";"0100 | Silver Atena"
+   + "TTTech";062;333;390;347;120;375;147;338;174;285;112;100;149;100;3036:48;"DS1";"30";"198";107.199;"";"0100 | TTTech"
+   + "Telic";235;413;439;434;418;549;535;504;293;263;151;065;058;033;4394:47;"DH1";"9";"254";448.424;"";"0100 | Telic"
+   + "Tremec";312;1253;1254;1084;1040;1211;1077;1055;1133;751;065;000;000;000;10241:20;"DS1";"12";"269";444.668;"";"0100 | Tremec"
+   + "Vector";129;201;241;263;110;077;135;080;000;055;075;000;000;000;1370:39;"DH1";"40";"107";26.646;"";"0100 | Vector"
+

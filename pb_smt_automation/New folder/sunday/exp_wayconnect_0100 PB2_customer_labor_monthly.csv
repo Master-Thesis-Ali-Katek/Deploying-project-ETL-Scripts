@@ -1,0 +1,8 @@
+000
+"Info1 (Mat.Dat.)";"Ecktermin 🔑:02.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:03.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:04.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:05.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:06.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:07.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:08.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:09.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:10.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:11.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:12.2025,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:01.2026,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:02.2026,Rest-Belastung Gesamt Personal";"Ecktermin 🔑:03.2026,Rest-Belastung Gesamt Personal";"Rest-Belastung Gesamt Personal";"Disponent";"Materialnummer 🔑";"Auftragsnummer 🔑";"Offene Menge";"Arbeitsplatznummer";"Werk 🔑 | Info1 (Mat.Dat.) | Arbeitsplatznummer | Materialnummer 🔑 | Ecktermin 🔑"
+- "";230;542;724;555;526;578;504;632;489;440;424;476;303;103;6532:41;"";"84";"692";1.586.998;"";"0100"
+   + "AMO";003;032;043;049;039;044;024;035;036;023;019;019;004;003;380:23;"DS1";"17";"62";106.959;"";"0100 | AMO"
+   + "BSH";190;462;569;467;449;496;442;575;417;398;405;457;299;099;5732:38;"";"52";"582";1.397.826;"";"0100 | BSH"
+   + "Ericsson";035;040;112;037;037;038;037;020;035;017;000;000;000;000;412:20;"CB1";"11";"42";79.717;"";"0100 | Ericsson"
+   + "Telic";001;005;000;000;000;000;000;000;000;000;000;000;000;000;07:20;"DH1";"4";"6";2.496;"";"0100 | Telic"
+

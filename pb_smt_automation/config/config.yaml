@@ -1,0 +1,22 @@
+data_extraction:
+  pb_input_files:
+    PB1:
+      monthly: "/local_files/exp_wayconnect_0100 PB1_customer_labor_monthly.csv"
+      weekly: "/local_files/exp_wayconnect_0100 PB1_customer_labor_weekly.csv"
+    PB2:
+      monthly: "/local_files/exp_wayconnect_0100 PB2_customer_labor_monthly.csv"
+      weekly: "/local_files/exp_wayconnect_0100 PB2_customer_labor_weekly.csv"
+    PB3:
+      monthly: "/local_files/exp_wayconnect_0100 PB3_customer_labor_monthly.csv"
+      weekly: "/local_files/exp_wayconnect_0100 PB3_customer_labor_weekly.csv"
+    PB4:
+      monthly: "/local_files/exp_wayconnect_0100 PB4_customer_labor_monthly.csv"
+      weekly: "/local_files/exp_wayconnect_0100 PB4_customer_labor_weekly.csv"
+
+  smt_input_files:
+    monthly: "/local_files/exp_wayconnect_0100 SMT_labor_monthly.csv"
+    weekly: "/local_files/exp_wayconnect_0100 SMT_labor_weekly.csv"
+
+  smt_load_files:
+    5quarters: "/local_files/exp_wayconnect_0100 SMT_load table_5quarters.csv"
+    12months: "/local_files/exp_wayconnect_0100 SMT_load table_12months.csv"
